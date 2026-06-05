@@ -14,3 +14,11 @@ Image Preprocessing – Converts RGB signatures to grayscale, applies Gaussian b
 
 Feature Extraction – Calculates nine handcrafted features:
 
+<b>SignGuard
+Developed a machine learning-based signature verification system to classify handwritten
+signatures as genuine or forged.
+Implemented image preprocessing and feature extraction techniques for signature analysis 
+and verification.
+Built and trained a neural network model using TensorFlow for signature classification and
+verification.</b>
+<img width="989" height="651" alt="image" src="https://github.com/user-attachments/assets/2ccf844d-a9ca-4e22-af72-434cff879e3b" />
